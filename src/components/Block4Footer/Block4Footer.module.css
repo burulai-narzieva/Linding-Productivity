@@ -1,0 +1,54 @@
+.block4Footer {
+    width: 1440px;
+    height: 400px;
+    background-image: url('./images/Rectangle\ 2\ \(1\).png');
+    background-size: cover;
+}
+
+.textStyle {
+    display: flex;
+}
+
+.text2Style  {
+    padding-top: 100px;
+}
+
+
+.block4Footer b {
+    padding-left: 200px;
+    width: 85px;
+    height: 14.03px;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    letter-spacing: 0.1em;
+    color: #3D4F9F;
+}
+
+.block4Footer h3 {
+    padding-left: 200px;
+    width: 333px;
+    height: 50.1px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 45px;
+    color: #3D4F9F;
+}
+
+.block1Text {
+    padding-left: 200px;
+    width: 323px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 23px;
+    letter-spacing: 0.03em;
+    color: #A4ABC8; 
+
+}
+
+.textStyle img {
+    padding-left: 160px;
+    padding-top: 30px;
+    
+}
+

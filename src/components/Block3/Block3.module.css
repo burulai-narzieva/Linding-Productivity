@@ -1,0 +1,120 @@
+.Block3 {
+   width: 1441px;
+   height: 785px;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   align-items: center;
+   background-image: url('./images/features\ \(1\).png');
+}
+.Block3 b {
+   width: 66px;
+   height: 12px;
+   font-weight: 300;
+   font-size: 10px;
+   line-height: 12px;
+   letter-spacing: 0.1em;
+   margin-top: 171px;
+   color: #264BEE;
+}
+.Block3 h4 {
+   width: 545px;
+   height: 30px;
+   font-weight: 500;
+   font-size: 30px;
+   line-height: 30px;
+   color: #042DE6;
+}
+.renderBlock {
+   display: flex;
+   text-align: center;
+   align-items: center;
+   justify-content: space-between;
+   flex-direction: row;
+}
+.renderBlock div {
+   width: 200px;
+   margin-right: 40px;
+   margin-top: 100px;
+}
+.renderBlock img {
+  margin-bottom: 35px;
+}
+.renderBlock b {
+   width: 67px;
+   height: 25px;
+   font-weight: bold;
+   font-size: 14px;
+   line-height: 25px;
+   color: #4074F8;
+}
+.renderBlock p {
+   position: absolute;
+   width: 125px;
+   height: 102px;
+   margin-left: 35px;
+   font-weight: 600;
+   font-size: 11px;
+   line-height: 19px;
+   color: #ADB3CB;
+}
+
+ .buttonsBlock {
+     display: flex;
+     padding-top: 210px;
+ }
+
+ .button1 {
+    display: flex;
+    margin-left: 7px;
+    width: 113px;
+    height: 43px;
+    background: #FFD7D7;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #D43F3F;
+    cursor: pointer;
+ }
+
+ .line1 {
+    margin-left: 10px;
+    margin-top: 18px;
+    width: 15px;
+    height: 0px;
+    border: 1px solid #DAE4FE;
+ }
+
+ .or {
+   
+    margin-top: 10px;
+    width: 16px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 19px;
+    text-align: center;
+    color: #ADB3CB;
+    
+ }
+
+ .button2 {
+    display: flex;
+    margin-left: 7px;
+    width: 113px;
+    height: 43px;
+    background: #D2E1FF;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #3A79FF;
+    cursor: pointer;
+ } 
