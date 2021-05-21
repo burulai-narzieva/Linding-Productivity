@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Linding-Productivity/static/css/main.cfa9a4f6.chunk.css",
+    "main.js": "/Linding-Productivity/static/js/main.4ef8f137.chunk.js",
+    "main.js.map": "/Linding-Productivity/static/js/main.4ef8f137.chunk.js.map",
+    "runtime-main.js": "/Linding-Productivity/static/js/runtime-main.d511625e.js",
+    "runtime-main.js.map": "/Linding-Productivity/static/js/runtime-main.d511625e.js.map",
+    "static/js/2.04a773fd.chunk.js": "/Linding-Productivity/static/js/2.04a773fd.chunk.js",
+    "static/js/2.04a773fd.chunk.js.map": "/Linding-Productivity/static/js/2.04a773fd.chunk.js.map",
+    "index.html": "/Linding-Productivity/index.html",
+    "static/css/main.cfa9a4f6.chunk.css.map": "/Linding-Productivity/static/css/main.cfa9a4f6.chunk.css.map",
+    "static/js/2.04a773fd.chunk.js.LICENSE.txt": "/Linding-Productivity/static/js/2.04a773fd.chunk.js.LICENSE.txt",
+    "static/media/Block2.module.css": "/Linding-Productivity/static/media/Rectangle (2).4033a282.png",
+    "static/media/Block4Footer.module.css": "/Linding-Productivity/static/media/Rectangle 2 (1).3618bbaa.png",
+    "static/media/Block3.module.css": "/Linding-Productivity/static/media/features (1).8ebcbc5d.png",
+    "static/media/Block5Footer.module.css": "/Linding-Productivity/static/media/get started.1d037749.png",
+    "static/media/Block1.module.css": "/Linding-Productivity/static/media/hero image (1).3174902f.png",
+    "static/media/illustration.d9573ffd.png": "/Linding-Productivity/static/media/illustration.d9573ffd.png",
+    "static/media/illustrations.13c5cf1a.png": "/Linding-Productivity/static/media/illustrations.13c5cf1a.png",
+    "static/media/play button.29bc494b.png": "/Linding-Productivity/static/media/play button.29bc494b.png",
+    "static/media/testimonials.fd828d69.png": "/Linding-Productivity/static/media/testimonials.fd828d69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d511625e.js",
+    "static/js/2.04a773fd.chunk.js",
+    "static/css/main.cfa9a4f6.chunk.css",
+    "static/js/main.4ef8f137.chunk.js"
+  ]
+}
